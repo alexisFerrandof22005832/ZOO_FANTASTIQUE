@@ -10,7 +10,7 @@ git clone https://github.com/alexisFerrandof22005832/ZOO_FANTASTIQUE
 ## Utilisation
 Lancer le projet
 ```bash
-cd Zoo_fantastique
+cd Zoo_fantastique-main
 Lancer le fichier Main.java
 ```
 
